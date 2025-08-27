@@ -4,6 +4,7 @@ A Python-based project that scrapes job postings from RemoteOK, cleans the datas
 ---
 ## 📂 Project Structure
 **remoteok_jobs34.csv — Raw dataset generated from the scraper.**
+
 **Web_Scraping_And_Analysis_Of_Job_Postings.ipynb — Script to scrape job listings (title, company, location, date, description) and store them in a CSV file.Jupyter Notebook for data cleaning and analysis.**
 
 ---
