@@ -41,8 +41,10 @@ Jupyter Notebook
 ```bash
 1. Clone the repository:
 git clone https://github.com/<your-username>/job-scraper-project.git
-2. cd job-scraper-project
-2. Run the Web_Scraping_And_Analysis_Of_Job_Postings.ipynb for data exploration.
+cd job-scraper-project
+```
+```bash
+3. Run the Web_Scraping_And_Analysis_Of_Job_Postings.ipynb for data exploration.
 ```
 ---
 ## 📌 Insights
