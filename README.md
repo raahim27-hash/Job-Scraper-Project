@@ -10,14 +10,14 @@ A Python-based project that scrapes job postings from RemoteOK, cleans the datas
 ---
 
 ## 🔹 Features
--**Web Scraping**
+-**Web Scraping**:
 Extract job title, company, location, skills, posteddate, and description.
 Built using BeautifulSoup for automated browsing.
 
--**Data Cleaning**
+-**Data Cleaning**:
 Handle missing skills through dropping those rows and removing all of the duplicates.
 
--**Data Analysis**
+-**Data Analysis**:
 Location-based trends.
 
 Remote vs On-site job share.
@@ -51,7 +51,7 @@ git clone https://github.com/<your-username>/job-scraper-project.git
 cd job-scraper-project
 ```
 ```bash
-3. Run the Web_Scraping_And_Analysis_Of_Job_Postings.ipynb for data exploration.
+2. Run the Web_Scraping_And_Analysis_Of_Job_Postings.ipynb for data exploration.
 ```
 ---
 ## 📌 Insights
