@@ -38,8 +38,8 @@ Jupyter Notebook
 ```
 ---
 ## 🚀 How to Run
-```bash
 1. Clone the repository:
+```bash
 git clone https://github.com/<your-username>/job-scraper-project.git
 cd job-scraper-project
 ```
@@ -49,9 +49,12 @@ cd job-scraper-project
 ---
 ## 📌 Insights
 Some interesting findings:
-Onsite work has a strong presence in the current job market.
-Certain companies are posting significantly more jobs than others.
-Posting frequency trends can be observed over time.
+
+**Onsite work has a strong presence in the current job market.**
+
+**Certain companies are posting significantly more jobs than others.**
+
+**Posting frequency trends can be observed over time.**
 
 ---
 ## 📄 License
