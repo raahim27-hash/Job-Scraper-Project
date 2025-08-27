@@ -11,13 +11,16 @@ A Python-based project that scrapes job postings from RemoteOK, cleans the datas
 
 ## 🔹 Features
 -**Web Scraping**:
+
 Extract job title, company, location, skills, posteddate, and description.
 Built using BeautifulSoup for automated browsing.
 
 -**Data Cleaning**:
+
 Handle missing skills through dropping those rows and removing all of the duplicates.
 
 -**Data Analysis**:
+
 Location-based trends.
 
 Remote vs On-site job share.
