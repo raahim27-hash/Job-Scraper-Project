@@ -19,12 +19,19 @@ Handle missing skills through dropping those rows and removing all of the duplic
 
 -**Data Analysis**
 Location-based trends.
+
 Remote vs On-site job share.
+
 Top hiring companies.
+
 Job posting frequency over time.
+
 Top job titles.
+
 Top demand skills.
+
 Top job locations.
+
 Top skills by city.
 
 ---
@@ -50,11 +57,11 @@ cd job-scraper-project
 ## 📌 Insights
 Some interesting findings:
 
-**Onsite work has a strong presence in the current job market.**
+Onsite work has a strong presence in the current job market.
 
-**Certain companies are posting significantly more jobs than others.**
+Certain companies are posting significantly more jobs than others.
 
-**Posting frequency trends can be observed over time.**
+Posting frequency trends can be observed over time.
 
 ---
 ## 📄 License
